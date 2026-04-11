@@ -7,7 +7,7 @@
 * 49737 - Nagel, Mateo
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* frontend app
 * [backend app](http://hyperlinkToGihubOrGitlab)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 

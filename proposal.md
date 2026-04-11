@@ -1,4 +1,4 @@
-# Propuesta TP DSW
+# Propuesta TP DSW - Estacionamiento - COM 301 
 
 ## Grupo
 ### Integrantes
@@ -18,7 +18,7 @@ Para facilitar el uso de cocheras, se busca desarrollar un sistema de reservas f
 ### Modelo
 ![imagen del modelo]()
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+link: https://app.diagrams.net/#G1kRBE9HilBemvbzsCnU2Gn20DMTaYp1sV#%7B%22pageId%22%3A%22nEvc5FtAkqEsQDL0Pzc8%22%7D
 
 ## Alcance Funcional 
 

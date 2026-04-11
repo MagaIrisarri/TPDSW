@@ -3,6 +3,7 @@
 ## Grupo
 ### Integrantes
 * 52218 - Irisarri, Magalí
+* 49781 - Schultz , Valentino
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)

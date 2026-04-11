@@ -1,4 +1,3 @@
-![TP-Página-1 (1)](https://github.com/user-attachments/assets/210f8f2e-b2d5-495e-b8dd-117dc5d58575)
 # Propuesta TP DSW - Estacionamiento - COM 301 
 
 ## Grupo
@@ -18,7 +17,7 @@ Para facilitar el uso de cocheras, se busca desarrollar un sistema de reservas f
 
 ### Modelo
 ![imagen del modelo]()
-
+(https://github.com/user-attachments/assets/210f8f2e-b2d5-495e-b8dd-117dc5d58575)
 link imagen del modelo : https://app.diagrams.net/#G1kRBE9HilBemvbzsCnU2Gn20DMTaYp1sV#%7B%22pageId%22%3A%22nEvc5FtAkqEsQDL0Pzc8%22%7D
 
 ## Alcance Funcional 

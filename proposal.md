@@ -5,6 +5,7 @@
 * 52218 - Irisarri, Magalí
 * 49781 - Schultz, Valentino
 * 49737 - Nagel, Mateo
+* 53485 - Lopez, Ariana
 
 ### Repositorios
 * 

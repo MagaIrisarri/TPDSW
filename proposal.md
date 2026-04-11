@@ -31,15 +31,15 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Cliente<br>2. CRUD Estacionamiento<br>3. CRUD Empleado<br>4. CRUD Precio|
 |CRUD dependiente|1. CRUD Auto {depende de} CRUD cliente<br>2. CRUD Ubicacion_playa {depende de} CRUD Estacionamiento|
-|Listado<br>+<br>detalle| 1. Listado de vehículos filtrado por tipo muestra, patente, marca, modelo y seguro => detalle cliente <br> 2. Listado de reservas filtrado por fecha muestra, cod_reserva y monto => detalle cliente|
+|Listado<br>+<br>detalle| 1. Listado de Estacionamiento filtrado por localidad muestra direccion => detalla Ubicacion_playa<br> 2. Listado de reservas filtrado por fecha muestra, cod_reserva y monto => detalle cliente|
 |CUU/Epic|1. Reservar un estacionamiento<br>2. Registrar facturacion de la estadia|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Cliente<br>2. CRUD Estacionamiento<br>3. CRUD Empliador<br>4. CRUD Precio<br>5. CRUD Auto<br>6. CRUD Ubicacion_playa<br>7. CRUD Reserva<br>7. CRUD Lugares|
+|CUU/Epic|1. Reservar un estacionamiento<br>2. Registrar confirmacion de reserva<br>3. Registrar facturacion de la estadia<br>4.Registrar cliente|
 
 
 ### Alcance Adicional Voluntario
@@ -48,6 +48,6 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
+|Listados |1. Listado de vehículos filtrado por tipo muestra, patente, marca, modelo y seguro => detalle cliente<br>2. Resumen mensual de Reserva filtrado por estado muestra, codigo de reserva, tipo_reserva, fecha (desde y hasta) y monto neto|
+|CUU/Epic|1. Cancelación de reserva|
 |Otros|1. Envío de recordatorio de reserva por email|

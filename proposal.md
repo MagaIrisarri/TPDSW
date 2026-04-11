@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 52218 - Irisarri, Magalí
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -27,10 +27,10 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
+|CRUD simple|1. CRUD Cliente<br>2. CRUD Estacionamiento<br>3. CRUD Empleado<br>4. CRUD Precio|
+|CRUD dependiente|1. CRUD Auto {depende de} CRUD cliente<br>2. CRUD Ubicacion_playa {depende de} CRUD Estacionamiento|
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CUU/Epic|1. Reservar un estacionamiento<br>2. Registrar facturacion de la estadia|
 
 
 Adicionales para Aprobación

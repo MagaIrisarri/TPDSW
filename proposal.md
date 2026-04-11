@@ -4,6 +4,7 @@
 ### Integrantes
 * 52218 - Irisarri, Magalí
 * 49781 - Schultz, Valentino
+* 49737 - Nagel, Mateo
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)

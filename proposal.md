@@ -7,7 +7,7 @@
 * 49737 - Nagel, Mateo
 
 ### Repositorios
-* 
+* https://github.com/MagaIrisarri/desarrollo2026/blob/8bf29309edaaf6939b8e9397f04bef55510d1ae7/frontend%20app
 * 
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 

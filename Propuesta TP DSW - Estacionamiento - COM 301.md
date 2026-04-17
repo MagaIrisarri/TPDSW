@@ -38,7 +38,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Cliente<br>2. CRUD Estacionamiento<br>3. CRUD Empliador<br>4. CRUD Precio<br>5. CRUD Auto<br>6. CRUD Ubicacion_playa<br>7. CRUD Reserva<br>7. CRUD Lugares|
+|CRUD |1. CRUD Cliente<br>2. CRUD Estacionamiento<br>3. CRUD Empleado<br>4. CRUD Precio<br>5. CRUD Auto<br>6. CRUD Ubicacion_playa<br>7. CRUD Lugares|
 |CUU/Epic|1. Reservar un estacionamiento<br>2. Registrar confirmacion de reserva<br>3. Registrar facturacion de la estadia<br>4.Registrar cliente|
 
 

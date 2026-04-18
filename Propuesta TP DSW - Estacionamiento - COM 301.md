@@ -1,4 +1,4 @@
-# Propuesta-TP-DSW-Estacionamiento-COM-301 
+# Propuesta TP DSW Estacionamiento COM 301 
 
 ## Grupo
 ### Integrantes

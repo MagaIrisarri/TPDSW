@@ -8,8 +8,9 @@
 * 53485 - Lopez, Ariana
 
 ### Repositorios
-* 
-* 
+* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [backend app](http://hyperlinkToGihubOrGitlab)
+
 
 ## Tema
 ### Descripción

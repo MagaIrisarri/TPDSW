@@ -16,7 +16,7 @@
 Para facilitar el uso de cocheras, se busca desarrollar un sistema de reservas físicas y/o virtuales en tiempo real, el cual se base en la disponibilidad de cada cochera adherida, tarifas competitivas y experiencia del usuario.
 
 ### Modelo 
-imagen del Modelo de Dominio
+Imagen del Modelo de Dominio
 
 <img width="777" height="1111" alt="TP-Página-1 (2)" src="https://github.com/user-attachments/assets/ebe3a67e-749a-4611-996b-91b13ac2ff00" />
 

@@ -1,4 +1,4 @@
-<img width="801" height="1011" alt="DER Estacionamiento drawio" src="https://github.com/user-attachments/assets/d4d67209-29b7-4e43-96c8-fbce15d84451" />
+
 # Propuesta TP DSW Estacionamiento COM 301 
 
 ## Grupo

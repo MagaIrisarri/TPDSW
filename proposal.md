@@ -1,4 +1,5 @@
 
+
 # Propuesta TP DSW Estacionamiento COM 301 
 
 ## Grupo
@@ -20,10 +21,12 @@ Para facilitar el uso de cocheras, se busca desarrollar un sistema de reservas f
 ### Modelo 
 Imagen del Modelo de Dominio
 
-<img width="777" height="1111" alt="TP-Página-1 (2)" src="https://github.com/user-attachments/assets/ebe3a67e-749a-4611-996b-91b13ac2ff00" />
+<img width="760" height="1110" alt="TP-MD drawio" src="https://github.com/user-attachments/assets/3c4a0da5-300e-471f-8d88-c0f971891a65" />
+
 Imagen del Diagrama Entidad Relacion
 
-<img width="801" height="1011" alt="DER Estacionamiento drawio" src="https://github.com/user-attachments/assets/2fe869a7-23a2-4773-af8a-57691f007dcc" />
+<img width="1013" height="952" alt="TP-DER drawio" src="https://github.com/user-attachments/assets/64423e12-e9b5-4217-b01e-d43fbf29f12e" />
+
 
 Link Modelos: https://app.diagrams.net/#G1kRBE9HilBemvbzsCnU2Gn20DMTaYp1sV#%7B%22pageId%22%3A%22nEvc5FtAkqEsQDL0Pzc8%22%7D
 ## Alcance Funcional 

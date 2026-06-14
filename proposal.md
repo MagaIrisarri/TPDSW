@@ -47,7 +47,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Estacionamiento<br>3. CRUD Servicio<br>4. CRUD TipoVehículo<br>5. CRUD Vehículo<br>6. CRUD Ubicacion_playa<br>7. CRUD TurnoEmpleado<br>8. CRUD PrecioVehículoHora<br>9. CRUD PrecioServicio|
-|CUU/Epic|1. Reservar un estacionamiento<br>2. Registrar confirmacion de reserva<br>3. Realizar facturacion de la estadia<br>4.Registrar uso de un servicio|
+|CUU/Epic|1. Reservar un estacionamiento<br>2. Registrar facturacion de la estadia <br>3. Registrar confirmacion de reserva<br>4.Registrar uso de un servicio|
 
 
 ### Alcance Adicional Voluntario

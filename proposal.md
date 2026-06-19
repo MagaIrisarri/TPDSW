@@ -10,7 +10,7 @@
 * 53485 - Lopez, Ariana
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/MagaIrisarri/Frontend)
 * [backend app](https://github.com/MagaIrisarri/Backend)
 
 

@@ -14,8 +14,8 @@
 * [backend app](https://github.com/MagaIrisarri/Backend)
 
 #### Pull requests de la entrega de regularidad: 
-* [Backend #9](https://github.com/MagaIrisarri/Backend/pull/9) 
-* [Frontend #13](https://github.com/MagaIrisarri/Frontend/pull/13)
+* [Backend #9](https://github.com/MagaIrisarri/Backend/pull/10) 
+* [Frontend #13](https://github.com/MagaIrisarri/Frontend/pull/14)
 
 
 ## Tema
